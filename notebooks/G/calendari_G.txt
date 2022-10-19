@@ -1,0 +1,103 @@
+## GES
+# data_fi = vigília de la junta d'avaluació
+# data_inici = inici del 1r lliurament
+
+
+# 2022 primavera
+data_inici = 19-04-2022
+data_fi_L1 = 02-05-2022
+data_fi_L2 = 15-05-2022
+data_fi_L3 = 29-05-2022
+data_fi_L4 = 12-06-2022
+data_prova1 = 17-06-2022
+data_prova2 = 20-06-2022
+data_fi = 22-06-2022
+data_fi_anterior = 23-03-2022
+
+
+# 2022 hivern
+data_inici = 17-01-2022
+data_fi_L1 = 30-01-2022
+data_fi_L2 = 13-02-2022
+data_fi_L3 = 27-02-2022
+data_fi_L4 = 13-03-2022
+data_prova1 = 18-03-2022
+data_prova2 = 21-03-2022
+data_fi = 23-03-2022
+data_fi_anterior = 09-12-2021
+
+
+# 2021 tardor
+data_inici = 22-09-2021
+data_fi_L1 = 10-10-2021
+data_fi_L2 = 24-10-2021
+data_fi_L3 = 07-11-2021
+data_fi_L4 = 21-11-2021
+data_prova1 = 30-11-2021
+data_prova2 = 02-12-2021
+data_fi = 09-12-2021
+data_fi_anterior = 16-06-2021
+
+
+# 2021 primavera
+data_inici = 12-04-2021
+data_fi_L1 = 25-04-2021
+data_fi_L2 = 09-05-2021
+data_fi_L3 = 23-05-2021
+data_fi_L4 = 06-06-2021
+data_prova1 = 11-06-2021
+data_prova2 = 14-06-2021
+data_fi = 16-06-2021
+data_fi_anterior = 17-03-2021
+
+
+# 2021 hivern
+data_inici = 11-01-2021
+data_fi_L1 = 24-01-2021
+data_fi_L2 = 07-02-2021
+data_fi_L3 = 21-02-2021
+data_fi_L4 = 07-03-2021
+data_prova1 = 15-03-2021
+data_prova2 = ''
+data_fi = 17-03-2021
+data_fi_anterior = 13-12-2020
+
+
+
+# 2020 tardor
+data_inici = 23-09-2020
+data_fi_L1 = 08-10-2020
+data_fi_L2 = 25-10-2020
+data_fi_L3 = 10-11-2020
+data_fi_L4 = 29-11-2020
+data_prova1 = 09-12-2020
+data_prova2 = ''
+data_fi = 13-12-2020
+data_fi_anterior = 18-06-2020
+
+
+
+# 2020 primavera
+data_inici = 15-04-2020
+data_fi_L1 = 29-04-2020
+data_fi_L2 = 10-05-2020
+data_fi_L3 = 24-05-2020
+data_fi_L4 = 07-06-2020
+data_prova1 = 15-06-2020
+data_prova2 = ''
+data_fi = 18-06-2020
+data_fi_anterior = 26-03-2020
+
+
+
+# 2020 hivern
+data_inici = 10-01-2020
+data_fi_L1 = 26-01-2020
+data_fi_L2 = 12-02-2020
+data_fi_L3 = 01-03-2020
+data_fi_L4 = 15-03-2020
+data_prova1 = 23-03-2020
+data_prova2 = ''
+data_fi = 26-03-2020
+data_fi_anterior = 
+
